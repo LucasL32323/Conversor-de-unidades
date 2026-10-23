@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Medidas.Cli/Medidas.Cli.csproj" />
+    <Project Path="src/Medidas.Core/Medidas.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Medidas.Tests/Medidas.Tests.csproj" />
+  </Folder>
+</Solution>
